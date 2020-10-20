@@ -1,0 +1,83 @@
+body {
+    width: 100%;
+    margin:0;
+    padding: 0;
+}
+
+main {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url("../images/banner-header.png");
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding-bottom: 5vh;
+    justify-content: space-between;
+    font-family: Helvetica;
+    font-weight: bold;
+    }
+
+header img {
+    padding-left: 8vw;
+    padding-top: 5vh;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    color: white;
+    padding-top: 5vh;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(121, 119, 119);
+}
+
+header div {
+    padding-right: 20vh;
+}
+
+div p {
+    display: flex;
+    justify-content: center;
+    color: #FF9D4A;
+    font-size: 20px;
+    text-align: center;
+}
+
+.text-top {
+    color: rgb(255, 125, 115);
+    background-color: white;
+    padding: 0.7vw 0.5vw;
+}
+
+.potions {
+    padding-top: 5vh;
+    padding-bottom: 8vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 17px;
+    color: #444444;
+}
+
+.potions section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    height: 220px;
+    width: 209px;
+    line-height: 1.6;
+    font-weight: 600;
+}
+
+.potions img {
+    height: 120px;
+}
+
