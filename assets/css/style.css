@@ -5,7 +5,8 @@ body {
 }
 
 main {
-    font-family: Helvetica;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
 }
 
 header {
@@ -16,7 +17,6 @@ header {
     align-content: center;
     padding-bottom: 5vh;
     justify-content: space-between;
-    font-family: Helvetica;
     font-weight: bold;
     }
 
@@ -50,7 +50,7 @@ div p {
 .text-top {
     color: rgb(255, 125, 115);
     background-color: white;
-    padding: 0.7vw 0.5vw;
+    padding: 0.7vw 1vw;
 }
 
 .potions {
@@ -74,7 +74,6 @@ div p {
     height: 220px;
     width: 209px;
     line-height: 1.6;
-    font-weight: 600;
 }
 
 .potions img {
