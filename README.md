@@ -2,7 +2,7 @@
 
 Simple project to practice html and css.
 
-`Page preview`:
+[`Click here to open the page`](https://bcnishi.github.io/ragnarok/)
 
 <img src="https://raw.githubusercontent.com/bcnishi/ragnarok/dev/assets/images/page-preview.png" width="550">
 
